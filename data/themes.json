@@ -1,0 +1,72 @@
+{
+    "default": {
+        "name": "Default",
+        "light_color": "#ffce9e",
+        "dark_color": "#d18b47"
+    },
+    "blackandwhite": {
+        "name": "Black and White",
+        "light_color": "#e8e8e8",
+        "dark_color": "#8e8e8e"
+    },
+    "greenfields": {
+        "name": "Green Fields",
+        "light_color": "#8DCF75",
+        "dark_color": "#509D34"
+    },
+    "blueskies": {
+        "name": "Blue Skies",
+        "light_color": "#6493AA",
+        "dark_color": "#295C74"
+    },
+    "deeppurple": {
+        "name": "Deep Purple",
+        "light_color": "#9A66AF",
+        "dark_color": "#642B7A"
+    },
+    "yellowcard": {
+        "name": "Yellow Card",
+        "light_color": "#E7E383",
+        "dark_color": "#B8B33D"
+    },
+    "baseball": {
+        "name": "Baseball",
+        "light_color": "#dfcf6f",
+        "dark_color": "#6f9f6f"
+    },
+    "babyblue": {
+        "name": "Baby Blue",
+        "light_color": "#f2f2f2",
+        "dark_color": "#7085b6"
+    },
+    "rainforest": {
+        "name": "Rain Forest",
+        "light_color": "#9AAB9B",
+        "dark_color": "#718351"
+    },
+    "moss": {
+        "name": "Moss",
+        "light_color": "#94AB4D",
+        "dark_color": "#546B01"
+    },
+    "candy": {
+        "name": "Candy",
+        "light_color": "#FFFBCE",
+        "dark_color": "#FF7EB0"
+    },
+    "grapepie": {
+        "name": "Grape Pie",
+        "light_color": "#EDD7A0",
+        "dark_color": "#A65C59"
+    },
+    "vintage": {
+        "name": "Vintage",
+        "light_color": "#EDD7A0",
+        "dark_color": "#697D6E"
+    },
+    "icecream": {
+        "name": "Napolitano",
+        "light_color": "#F0C0C0",
+        "dark_color": "#604830"
+    }
+}

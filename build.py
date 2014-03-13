@@ -30,7 +30,7 @@ def main():
             appendScriptToExe = True,
             targetDir=None,
             zipIncludes=[],
-            includeFiles=['assets/', 'docs/', 'themes.json', 'config.json', 'levels.json'],
+            includeFiles=['assets/', 'docs/', 'data/'],
             icon='assets/ico/liac_chess.ico',
             silent=None)
     freezer.Freeze()
